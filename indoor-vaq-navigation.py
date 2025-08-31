@@ -27,7 +27,7 @@ from scipy.io.wavfile import write
 # ------------------ Config ------------------
 CAMERA_INDEX = 0
 AUDIO_SAMPLE_RATE = 16000
-OUTPUT_VOICE_FILE = "answer.mp3"
+
 
 # ------------------ Audio recording (async) ------------------
 recording = False
